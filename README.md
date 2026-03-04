@@ -69,3 +69,6 @@ You can run the tests to see if the application can be executed and still behave
 In the command line, run the following:
 
 ``./mvnw clean install``
+
+
+"check chekc"
